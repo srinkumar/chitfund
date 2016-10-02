@@ -1,0 +1,107 @@
+{
+    "chits": [
+        {
+            "name": "50 thousand",
+            "startDate": "Jan 2016",
+            "months": 12,
+            "chitValue": 50000,
+            "dataByMonth": [
+                {
+                    "name": "month 1",
+                    "bidAmount": 22000,
+                    "bidder": "Joe",
+                    "paid": [true, true, true, true, true, true, true, true, true, true, true, true]
+                },
+                {
+                    "name": "month 2",
+                    "bidAmount": 25000,
+                    "bidder": "Rost",
+                    "paid": [true, true, true, true, true, true, true, true, true, true, true, true]
+                },
+                {
+                    "name": "month 3",
+                    "bidAmount": 0,
+                    "bidder": "",
+                    "paid": [false, false, false, false, false, false, false, false, false, false, false, false]
+                },
+                {
+                    "name": "month 4",
+                    "bidAmount": 0,
+                    "bidder": "",
+                    "paid": [false, false, false, false, false, false, false, false, false, false, false, false]
+                },
+                {
+                    "name": "month 5",
+                    "bidAmount": 0,
+                    "bidder": "",
+                    "paid": [false, false, false, false, false, false, false, false, false, false, false, false]
+                },
+                {
+                    "name": "month 6",
+                    "bidAmount": 0,
+                    "bidder": "",
+                    "paid": [false, false, false, false, false, false, false, false, false, false, false, false]
+                },
+                {
+                    "name": "month 7",
+                    "bidAmount": 0,
+                    "bidder": "",
+                    "paid": [false, false, false, false, false, false, false, false, false, false, false, false]
+                },
+                {
+                    "name": "month 8",
+                    "bidAmount": 0,
+                    "bidder": "",
+                    "paid": [false, false, false, false, false, false, false, false, false, false, false, false]
+                },
+                {
+                    "name": "month 9",
+                    "bidAmount": 0,
+                    "bidder": "",
+                    "paid": [false, false, false, false, false, false, false, false, false, false, false, false]
+                },
+                {
+                    "name": "month 10",
+                    "bidAmount": 0,
+                    "bidder": "",
+                    "paid": [false, false, false, false, false, false, false, false, false, false, false, false]
+                },
+                {
+                    "name": "month 11",
+                    "bidAmount": 0,
+                    "bidder": "",
+                    "paid": [false, false, false, false, false, false, false, false, false, false, false, false]
+                },
+                {
+                    "name": "month 12",
+                    "bidAmount": 0,
+                    "bidder": "",
+                    "paid": [false, false, false, false, false, false, false, false, false, false, false, false]
+                }               
+            ],
+            "members": [
+                {"name": "John"},
+                {"name": "Steve"},
+                {"name": "Srin"},
+                {"name": "Sunitha"},
+                {"name": "Andrew"},
+                {"name": "Sergey"},
+                {"name": "Roman"},
+                {"name": "Rost"},
+                {"name": "Joe"},
+                {"name": "Peter"},
+                {"name": "Vivek"},
+                {"name": "Angela"}
+            ]
+        },
+        {
+            "name": "24 thousand",
+            "startDate": "June 2016",
+            "months": 12,
+            "chitValue": 24000,
+            "dataByMonth": [],
+            "members":[]
+        }
+        
+    ]
+}
